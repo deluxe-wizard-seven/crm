@@ -11,7 +11,7 @@ Dipto Bhattacharjee
 
 ## Built With
 * `Python` (version=3.11.3)
-* `Django` (version=4.2.3)
+* `Django` (version=4.2.4)
 
 ## Getting Started
 
